@@ -1,0 +1,76 @@
+{
+  "noRouteFound": "لم يتم العثور على طريق",
+  "onboardingTitle1": "التسوق عبر الانترنت",
+  "onboardingSubTitle1" :"يمكنك التسوق في أي وقت وفي أي مكان تريده.",
+  "onboardingTitle2": "الدفع عن طريق  التليفون",
+  "onboardingSubTitle2" : "قم بتنزيل تطبيق التسوق الخاص بنا واشترى باستخدام هاتفك الذكي أو الكمبيوتر المحمول.",
+  "onboardingTitle3" :  "خدمة التوصيل",
+  "onboardingSubTitle3": "تقنيات التوصيل الحديثة: سيتم توصيل المنتجات التي تطلبها إلى عنوانك.",
+  "skip" : "تخطى",
+  "welcome":  "مرحبا بكم في تطبيق سلا",
+  "login" :  "تسجيل الدخول",
+  "signUp":  "اشتراك",
+  "loginNow":  "تسجيل الدخول الآن",
+  "loginNowHotOff" :  "تسجيل الدخول الآن لتصفح عروضنا الساخنة",
+  "notHaveAccount" :  "ليس لديك حساب؟",
+  "signUpNotHave":  "  اشتراك...",
+  "emailAddress" :  "عنوان البريد الالكترونى",
+  "password" :  "كلمة المرور",
+  "registerNow":  "سجل الان",
+  "registerNowHotOff":  "سجل الآن لتصفح عروضنا الساخنة",
+  "userName"
+  :  "اسم المستخدم",
+  "phone"
+  :  "هاتف",
+  "alreadyHaveAccount"
+  : "هل لديك حساب ؟",
+  "loginNotHave"
+  : "  تسجيل الدخول...",
+  "loading" :"جار التحميل...",
+  "ok"
+  :  "موافق",
+  "retryAgain"
+  :  "أعد المحاولة مرة أخرى",
+  "salla"
+  :  "سلة",
+  "category"
+  :  "    فئة     ",
+  "searchAnything"
+  :  "ابحث عن أي شيء",
+  "accountSetting"
+  :  "إعدادات الحساب",
+  "profile"
+  :  "الملف الشخصي",
+  "payment"
+  :  "خروج",
+  "generalSetting"
+  :  "الإعدادات العامة",
+  "darkMode"
+  :  "الوضع المظلم",
+  "language"
+  :  "لغة",
+  "support"
+  :  "الدعم",
+  "contactUs" :  "اتصل بنا",
+
+  "aboutAs":  "حول",
+
+  "facebook":  "فيس بوك",
+  "instagram":  "انستجرام",
+  "twitter" :  "تويتر",
+
+  "gmail":  "جميل",
+
+
+
+  "Home": "  الرئيسية  ",
+  "Categories": "  فئة  ",
+  "Shopping": "  العربة  ",
+  "Favorite": "  المفضلة  ",
+  "Settings": "  الاعدادات  ",
+  "Products Details": "تفاصيل المنتج",
+  "Add to Salla": "اضافة الى السلة",
+  "Description": "الوصف",
+  "profileUpdate": "تحديث الملف الشخصي"
+
+}

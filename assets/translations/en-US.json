@@ -1,0 +1,78 @@
+{
+  "noRouteFound": "No Route Found",
+  "onboardingTitle1": "Online Shopping",
+ "onboardingSubTitle1" :"You can shopping anytime and anywhere,       that you want.",
+
+
+
+
+  "onboardingTitle2": "Mobile Payment",
+ "onboardingSubTitle2" : "Download our shopping application and buy using your smart phone or laptop.",
+   "onboardingTitle3" :  "Delivery Service",
+ "onboardingSubTitle3": "Modern delivering technologies.The     products you order will be delivered to your address.",
+  "skip" : "Skip",
+ "welcome":  "Welcome To Salaa Application",
+  "login" :  "Login",
+  "signUp":  "Sign Up",
+  "loginNow":  "Login Now",
+ "loginNowHotOff" :  "login now to browse our hot offers",
+  "notHaveAccount" :  "Don't have an account ?",
+  "signUpNotHave":  "  Sign Up...",
+ "emailAddress" :  "Email Address",
+   "password" :  "Password",
+  "registerNow":  "Register Now",
+  "registerNowHotOff":  "register now to browse our hot offers",
+  "userName"
+:  "User Name",
+  "phone"
+:  "phone",
+  "alreadyHaveAccount"
+ : "Already have an account ?",
+  "loginNotHave"
+ : "  Login...",
+  "loading" :"loading...",
+  "ok"
+:  "ok",
+  "retryAgain"
+:  "retry Again",
+  "salla"
+:  "salla",
+  "category"
+:  "Category",
+  "searchAnything"
+:  "search Any thing",
+  "accountSetting"
+:  "Account setting",
+  "profile"
+:  "Profile",
+  "payment"
+:  "Exit",
+  "generalSetting"
+:  "General setting",
+  "darkMode"
+:  "Dark Mode",
+  "language"
+:  "Language",
+  "support"
+:  "Support",
+"contactUs" :  "Contact Us",
+
+  "aboutAs":  "About As",
+
+  "facebook":  "FaceBook",
+  "instagram":  "Instagram",
+  "twitter" :  "Twitter",
+  "gmail":  "Gmail",
+
+
+
+  "Home": "Home",
+  "Categories": "Categories",
+  "Shopping": "Shopping",
+  "Favorite": "Favorite",
+  "Settings": "Settings",
+  "Products Details": "Products Details",
+  "Add to Salla": "Add to Salla",
+  "Description": "Description",
+  "profileUpdate": "Profile Update"
+}
